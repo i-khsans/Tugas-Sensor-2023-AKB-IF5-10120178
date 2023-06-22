@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_profil"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profil"/>
+
+    <item
+        android:id="@+id/nav_tempatmaps"
+        android:icon="@drawable/ic_baseline_list_24"
+        android:title="Tempat Makan"/>
+
+    <item
+        android:id="@+id/nav_maps"
+        android:icon="@drawable/ic_baseline_location_on_24"
+        android:title="Lokasi"/>
+</menu>
